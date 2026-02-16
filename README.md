@@ -1,3 +1,7 @@
+This repository has now been archived.
+New changes should now land in: https://github.com/open-metadata/docs-om
+
+
 # How to run locally?
 
 1. Clone the repository 
